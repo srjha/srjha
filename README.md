@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shashi
-- 👀 I’m interested in programming
+- 👀 I’m interested in solving problem with programming and sometimes creating one.
 - 🌱 I’m currently learning what is unknown to me
 - 💞️ I’m looking to collaborate on Java (6 - 17), Python3, NodeJS, Svelte, Spring boot/frameworks, K8s, Docker, Ansible etc (The list keeps getting updated and hard to keep it up to date)
 - 📫 How to reach me ... shashir2587@gmail.com
